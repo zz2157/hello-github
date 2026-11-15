@@ -9,7 +9,7 @@
 
 ## 待办
 
-- [ ] 配好 user.name / user.email
-- [ ] 完成第一次 commit
-- [ ] 关联远程并 push 成功
-- [ ] 试着新建一个分支再合并
+- [x] 配好 user.name / user.email
+- [x] 完成第一次 commit
+- [x] 关联远程并 push 成功
+- [x] 试着新建一个分支再合并

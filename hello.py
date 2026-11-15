@@ -8,3 +8,7 @@ def greet(name: str = "world") -> str:
 if __name__ == "__main__":
     print(greet())
     print(greet("GitHub"))
+
+
+def farewell(name: str = "world") -> str:
+    return f"Bye, {name}!"
